@@ -1,0 +1,5 @@
+rootProject.name = 'test'
+include 'libwithcontrollers'
+
+project(":libwithcontrollers").projectDir = "libwithcontrollers" as File
+
